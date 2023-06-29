@@ -8,7 +8,7 @@ Added these values in credentials.json file.
 
 ### OAuth2.0 Access Token
 First created authorization request then copy and pasted the request in the Chrome browser and authorized the testing email which responded a authorization code.
-Lated used the authorization code along with other parameters where access_type is set to offline and made a request using Postman which returned both access_token and refresh_token.
+Later used the authorization code along with other parameters where access_type is set to offline and made a request using Postman which returned both access_token and refresh_token.
 Added these tokens in the tokens.json file.
 Used refresh_token to renew access token in HttpRequests.java class.
 
