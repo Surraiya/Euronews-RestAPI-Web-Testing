@@ -15,6 +15,6 @@ Project is created with:
 - Postman app
 
 ## Resources
-https://www.euronews.com/ 
-https://developers.google.com/identity/protocols/oauth2/web-server#httprest
-https://developers.google.com/gmail/api/guides
+- https://www.euronews.com/
+- https://developers.google.com/identity/protocols/oauth2/web-server#httprest
+- https://developers.google.com/gmail/api/guides
