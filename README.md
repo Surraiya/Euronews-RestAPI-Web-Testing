@@ -7,7 +7,7 @@ Running auto test is dependent on authorization token required to access Gmail A
 This Project was part of A1QA Automation testing internship.
 
 ## TestCase
-The test steps and expected result of the Autotest is given here: [euronews.JPG](euronews.jpg)
+The test steps and expected result of the Autotest is given here: [euronews.JPG](euronews.JPG)
 
 ## Technologies
 Project is created with:
