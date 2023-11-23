@@ -37,20 +37,6 @@ This Project was part of A1QA Automation testing internship.
 
 The test steps and expected result of the Autotest is given here: [euronews.JPG](euronews.JPG)
 
-## Form Interaction
-- **Email Subscription Form:**
-  - Located in the 'Newsletters' section.
-  - Allows users to choose a subscription plan and submit their email address.
-
-- **Unsubscription Form:**
-  - Accessed through the obtained unsubscription link.
-  - Requires users to enter their email address and submit the form.
-
-- **Preview Form:**
-  - Located in the 'Newsletters' section.
-  - Utilizes iframes for certain elements.
-  - Provides methods for interacting with elements within iframes.
-
 ## How to Run Tests
 1. Ensure you have the necessary dependencies installed (TestNG, Selenium/Aquality Selenium, RestAssured).
 2. Configure the test data in `testData.json`.
