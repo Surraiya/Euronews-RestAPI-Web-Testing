@@ -7,8 +7,6 @@ Running auto test is dependent on authorization token required to access Gmail A
 
 This Project was part of A1QA Automation testing internship.
 
-...
-
 ## Project Structure
 - **tests**: Contains the test scripts.
   - `BaseTest.java`: Base class for test setup.
@@ -19,8 +17,6 @@ This Project was part of A1QA Automation testing internship.
 - **PageObjectModel**: Classes representing pages on the EuroNews website.
   - `Pages`: Package containing page classes.
   - `Forms`: Package containing form classes representing user interactions.
-
-...
 
 ## Design Patterns and Best Practices
 - **Singleton Pattern**: Implemented for managing browser instances to ensure one instance per test execution.
@@ -59,9 +55,6 @@ The test steps and expected result of the Autotest is given here: [euronews.JPG]
 1. Ensure you have the necessary dependencies installed (TestNG, Selenium/Aquality Selenium, RestAssured).
 2. Configure the test data in `testData.json`.
 3. Execute the test suite using your preferred test runner or IDE.
-
-...
-
 
 ## Technologies
 Project is created with:
